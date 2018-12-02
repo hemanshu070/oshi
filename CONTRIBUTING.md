@@ -12,6 +12,7 @@ git clone https://github.com/contributor/oshi.git
 cd oshi
 git remote add upstream https://github.com/dblock/oshi.git
 ```
+#if you encounter the "repository not found"  please replace contributor with oshi to clone the repository
 
 #### Create a Topic Branch
 
