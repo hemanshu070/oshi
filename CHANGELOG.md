@@ -4,7 +4,7 @@
 * [#699](https://github.com/oshi/oshi/pull/699): Fix PerfData error handling - [@dbwiddis](https://github.com/dbwiddis).
 * [#703](https://github.com/oshi/oshi/pull/703): Remove deprecated CentralProcessor serialNumber method - [@dbwiddis](https://github.com/dbwiddis).
 * [#704](https://github.com/oshi/oshi/pull/704): Check for Virtual Machine - [@haidong](https://github.com/haidong).
-* Your contribution here.
+* [#720](https://github.com/oshi/oshi/pull/720): Refactor Linux version parsing - [@hemanshu](https://github.com/hemanshu).
 
 3.11.0 (11/21/18)
 ================
